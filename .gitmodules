@@ -1,0 +1,3 @@
+[submodule "src/USER-BYU"]
+	path = src/USER-BYU
+	url = git@github.com:BYU-BMR/USER-BYU.git
